@@ -7,9 +7,9 @@ retire가 없고, 모든 레이서가 서로 다른 시각에 들어온다는 �
 ``` 
 
 ### 정리
-1. `Comparator` 사용을 위해 배열로 값을 받는다. <br>
-2. `comparingLong`는 `Override`할 필요없이 사용가능 <br>
-3. `.reversed()` 붙이면 내림차
+- `Comparator` 사용을 위해 배열로 값을 받는다. <br>
+- `comparingLong`는 `Override`할 필요없이 사용가능 <br>
+- `.reversed()` 붙이면 내림차순 
 
 ### 내 답안 
 
