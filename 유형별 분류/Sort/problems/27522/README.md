@@ -1,4 +1,4 @@
-##   <a href="https://www.acmicpc.net/problem/20124">📖 백준 27522 (모르고리즘 회장님 추천 받습니다 ) 📖</a>
+##   <a href="https://www.acmicpc.net/problem/27522"> 🤎 27522 카트라이더:드리프트 </a>
 
 
 
