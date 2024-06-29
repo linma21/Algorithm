@@ -1,4 +1,5 @@
-##   <a href="https://www.acmicpc.net/problem/27522">🤎 27522 카트라이더: 드리프트 🤎</a>
+##  [🤎 27522 카트라이더: 드리프트](https://www.acmicpc.net/problem/27522)
+
 
 
 ### 메모
