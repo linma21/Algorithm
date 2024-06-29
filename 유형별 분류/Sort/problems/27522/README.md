@@ -1,7 +1,7 @@
-##   <a href="https://www.acmicpc.net/problem/27522">🤎 백준 27522 (카트라이더: 드리프트) 🤎</a>
+##   <a href="https://www.acmicpc.net/problem/27522">🤎 27522 카트라이더: 드리프트 🤎</a>
 
 
-### 접근법
+### 메모
 ```
 retire가 없고, 모든 레이서가 서로 다른 시각에 들어온다는 걸 문제에서 보장해주기 때문에 그냥 시간 순으로 정렬하면 된다.
 ``` 
@@ -9,8 +9,9 @@ retire가 없고, 모든 레이서가 서로 다른 시각에 들어온다는 �
 ### 정리
 1. `Comparator` 사용을 위해 배열로 값을 받는다. <br>
 2. `comparingLong`는 `Override`할 필요없이 사용가능 <br>
+3. `.reversed()` 붙이면 내림차
 
-### 풀이
+### 내 답안 
 
 ```java
 import java.io.BufferedReader;
