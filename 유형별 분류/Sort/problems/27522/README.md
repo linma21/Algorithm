@@ -30,15 +30,13 @@ public class Main {
         int blueTeamScore = 0;
         String[] inputs = new String[8];
 
-        // 문자열 입력받기
-        for (int i = 0; i < 8; i++) {
-           
-            inputs[i] = reader.readLine();
-        }
+        // 점수 배열
+        int[] score = {10, 8, 6, 5, 4, 3, 2, 1};
 
+        // 문자열 입력받고 밀리초로 변환하여 배열에 저장
         for (int i = 0; i < 8; i++) {
-            String input = inputs[i];
-
+            String input = reader.readLine();
+            
             // ":"과 " " (공백)을 기준으로 분리
             String[] parts = input.split(":");
             int m = Integer.parseInt(parts[0]);
@@ -57,7 +55,6 @@ public class Main {
         Arrays.sort(inputs, Comparator.comparingLong(s -> Long.parseLong(s.split(" ")[0])));
 
         // 점수 부여
-        int score[] = {10,8,6,5,4,3,2,1};
         for (int i = 0; i < 8; i++) {
             String[] parts = inputs[i].split(" ");
             String team = parts[1];
@@ -68,11 +65,13 @@ public class Main {
                 blueTeamScore += score[i];
             }
         }
+
         // 승자 결정
         String winner = (redTeamScore > blueTeamScore) ? "Red" : "Blue";
         System.out.print(winner);
     }
 }
+
 
 
 ```
