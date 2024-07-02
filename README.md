@@ -1,3 +1,6 @@
+## 🏫Algorithm Study Repository🏫
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlvldzmf96)](https://solved.ac/chlvldzmf96/)
+
 ## 📖유형별 문제📖
 <hr>
 
