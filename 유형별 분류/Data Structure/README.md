@@ -6,5 +6,6 @@
 | 31562 | [전주듣고 노래 맞추기](https://www.acmicpc.net/problem/31562)       | Bronze 1 | [바로가기💨](https://github.com/linma21/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/31562) |
 | 2161 | [카드 1](https://www.acmicpc.net/problem/2161)              | Silver 5 | [바로가기💨](https://github.com/linma21/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/2161)  |
 | 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)         | Silver 4 | [바로가기💨](https://github.com/linma21/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/1620)  |
+| 1764 | [듣보잡](https://www.acmicpc.net/problem/1764)         | Silver 4 | [바로가기💨](https://github.com/linma21/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Data%20Structure/problems/1764)  |
 
 
