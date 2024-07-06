@@ -1,4 +1,4 @@
-##  [🩶 백준 1911 (흙길 보수하기) 🩶](https://www.acmicpc.net/problem/1911)
+[백준](https://www.acmicpc.net/problem/1620)##  [🩶 백준 1911 (흙길 보수하기) 🩶](https://www.acmicpc.net/problem/1911)
 
 
 ### 메모
@@ -9,7 +9,33 @@
 ```
 
 ### 정리
+Comparator 예시
+다음은 Comparator가 배열의 여러 요소를 비교하는 과정을 예시로 설명합니다:
 
+```java
+코드 복사
+Size[] pools = new Size[] {
+    new Size(5, 10),
+    new Size(2, 7),
+    new Size(8, 12),
+    new Size(1, 4)
+};
+
+// 정렬
+Arrays.sort(pools, (a, b) -> Integer.compare(a.start, b.start));
+```
+
+정렬 과정에서 a와 b는 배열의 요소를 가리키는 임시 변수로 사용됩니다.<br>
+Arrays.sort 메서드는 내부적으로 다음과 같은 순서로 배열을 정렬합니다:<br>
+
+```
+첫 번째 비교: new Size(5, 10)와 new Size(2, 7)를 비교합니다.
+두 번째 비교: new Size(5, 10)와 new Size(8, 12)를 비교합니다.
+세 번째 비교: new Size(5, 10)와 new Size(1, 4)를 비교합니다.
+네 번째 비교: new Size(2, 7)와 new Size(8, 12)를 비교합니다.
+다섯 번째 비교: new Size(2, 7)와 new Size(1, 4)를 비교합니다.
+여섯 번째 비교: new Size(8, 12)와 new Size(1, 4)를 비교합니다.
+```
 
 ### 내 답안 
 1. <span style="background-color:#FFE6E6"> 메모리 초과 </span>
