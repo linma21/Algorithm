@@ -1,5 +1,4 @@
-[백준](https://www.acmicpc.net/problem/1620)##  [🩶 백준 1911 (흙길 보수하기) 🩶](https://www.acmicpc.net/problem/1911)
-
+##  [💛 백준 1911 (흙길 보수하기) 💛](https://www.acmicpc.net/problem/1911)
 
 ### 메모
 ```
@@ -10,10 +9,8 @@
 
 ### 정리
 Comparator 예시
-다음은 Comparator가 배열의 여러 요소를 비교하는 과정을 예시로 설명합니다:
 
 ```java
-코드 복사
 Size[] pools = new Size[] {
     new Size(5, 10),
     new Size(2, 7),
