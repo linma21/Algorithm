@@ -9,7 +9,7 @@
 
 
 ### 내 답안
-1. 예제 3) -1이 안됨 : 꼭 (3 * 3) 씩 바꿔야 하기 때문에 N - 3 번까지만 반복
+1. <span style="background-color:#FFE6E6">예제 3) -1이 안됨 </span> : 꼭 (3 * 3) 씩 바꿔야 하기 때문에 N - 3 번까지만 반복
 ```java
 public class Main {
 
