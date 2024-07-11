@@ -30,6 +30,15 @@
       <a href="https://github.com/linma21/Algorithm/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Sort/handbook/README.md">바로가기</a>
     </td>
   </tr>
+  <tr>
+    <td>03</td>
+    <td>그리디 </td>
+    <td>Greedy</td>
+    <td><a href="https://github.com/linma21/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Greedy">문제집📚</a></td> <!-- list, queue, stack, set, map -->
+    <td>
+      <a href="https://github.com/linma21/Algorithm/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Greedy/handbook/README.md">바로가기</a>
+    </td>
+  </tr>
 </table>
 
 <hr>
