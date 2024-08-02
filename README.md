@@ -39,6 +39,15 @@
       <a href="https://github.com/linma21/Algorithm/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Greedy/handbook/README.md">바로가기</a>
     </td>
   </tr>
+  <tr>
+    <td>04</td>
+    <td>재귀 </td>
+    <td>Recursion</td>
+    <td><a href="https://github.com/linma21/Algorithm/tree/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Recursion">문제집📚</a></td> <!-- list, queue, stack, set, map -->
+    <td>
+      <a href="https://github.com/linma21/Algorithm/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%B6%84%EB%A5%98/Recursion/handbook/README.md">바로가기</a>
+    </td>
+  </tr>
 </table>
 
 <hr>
